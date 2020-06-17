@@ -3,9 +3,9 @@
 <h2 align="center">Desafios do primeiro módulo do curso Launch Base</h2>
 
 ## Índices
-1. [Sobre](#-sobre)
-2. [Tópicos abordados](#-tópicos-abordados)
-3. [Desafios](#-desafios)
+1. [Sobre](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo#sobre)
+2. [Tópicos abordados](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo#t%C3%B3picos-abordados)
+3. [Desafios](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo#desafios)
 ---
 ## Sobre
 Esse repositório é destinado aos primeiros desafios do curso launch base, todos os códigos estão comentados com explicações que escrevi com base no que entendi sobre o que foi mostrado nas aulas.
