@@ -1,4 +1,4 @@
-<h1><img align="center" src="https://ik.imagekit.io/pauloch/launch-base-image_Tu2MlTVXZ.png"> </h1>
+<h1 align="center" ><img src="https://ik.imagekit.io/pauloch/launch-base-image_Tu2MlTVXZ.png"> </h1>
 
 <h2 align="center">Desafios do primeiro módulo do curso Launch Base</h2>
 
