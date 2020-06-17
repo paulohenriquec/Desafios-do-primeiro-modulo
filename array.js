@@ -1,6 +1,7 @@
 const programador = {  //aqui temos um objeto
     nome: "Paulo",
     idade: 21,
+    //nota-se que o array como propriedade de um objeto é declarado com : e não com =
     tecnologias: [  //uma das propriedades desse objeto é um array, que é uma coleção de itens
         {  //aqui temos um item do array tecnologias e esse item pode ser acessado através do indice 0 e esse item é um objeto com mais propriedades
             nome: "Javascript",
