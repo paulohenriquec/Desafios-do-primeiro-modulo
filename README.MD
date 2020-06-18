@@ -23,9 +23,7 @@ Esse repositório é destinado aos primeiros desafios do curso launch base, todo
 - Vetores
 - Repetição
 - Funções e escopo
-
-essa lista será atualizada de acordo com os tópicos passados nas aulas.
-
+- Boleanos
 ---
 
 ## Desafios
@@ -36,11 +34,10 @@ essa lista será atualizada de acordo com os tópicos passados nas aulas.
 - ✅ [Usuários e tecnologias](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/user-and-techs.js)
 - ✅ [Busca por tecnologia](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/search-for-techs.js)
 - ✅ [Soma de despesas e receitas](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/sum-expenses-income.js)
-
-essa lista será atualizada de acordo com o decorrer do módulo.
+- ✅ [Operações bancárias](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/banking-operations.js)
 
 ---
 
 <p align="center">
-<img src="https://ik.imagekit.io/pauloch/made_by-Paulo-brightgreen_QVUo7lPWq.svg">
+<img src="https://ik.imagekit.io/pauloch/made_by-Paulo-yellow_VmAhZw2G3.svg">
 </p>
