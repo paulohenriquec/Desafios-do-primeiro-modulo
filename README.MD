@@ -21,6 +21,8 @@ Esse repositório é destinado aos primeiros desafios do curso launch base, todo
 - Objetos
 - Objetos Intercalados
 - Vetores
+- Repetição
+- Funções e escopo
 
 essa lista será atualizada de acordo com os tópicos passados nas aulas.
 
@@ -31,6 +33,9 @@ essa lista será atualizada de acordo com os tópicos passados nas aulas.
 - ✅ [Cálculo de aposentadoria](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/aposentadoria.js)
 - ✅ [Objetos](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/objetos.js)
 - ✅ [Vetores](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/array.js)
+- ✅ [Usuários e tecnologias](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/user-and-techs.js)
+- ✅ [Busca por tecnologia](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/search-for-techs.js)
+- ✅ [Soma de despesas e receitas](https://github.com/paulohenriquec/Desafios-do-primeiro-modulo/blob/master/sum-expenses-income.js)
 
 essa lista será atualizada de acordo com o decorrer do módulo.
 
